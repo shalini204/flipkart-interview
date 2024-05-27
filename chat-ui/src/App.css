@@ -1,0 +1,30 @@
+.app{
+  display: flex;
+  flex-direction: row;
+ 
+}
+
+.chat-list{
+  width: 40%;
+}
+
+.chat-window{
+  width: 60%;
+  flex-direction: row;
+  background-color: aliceblue;
+}
+
+.bot-message{
+  text-align: left;
+  background-color: white;
+ 
+}
+.user-message {
+  text-align: right;
+
+  
+}
+
+ul{
+  list-style: none;
+}
